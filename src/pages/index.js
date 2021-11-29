@@ -7,7 +7,7 @@ const IndexPage = () => {
   return (
       <main>
         <title>Home Page</title>
-        <h1>Hello Amigo</h1>
+        <h1>Hello Amigo =D</h1>
           <Link to="/about">About</Link>
         <p>I'm making this by following the Gatsby Tutorial.</p>
       </main>
